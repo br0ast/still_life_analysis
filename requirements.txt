@@ -1,0 +1,4 @@
+rdflib==6.3.2
+pymantic==1.0.0
+pandas==2.0.3
+numpy==1.24.4
